@@ -1,0 +1,14 @@
+{
+    "name": "u0_a239/php",
+    "require": {
+        "league/climate": "^3.5",
+        "php-curl-class/php-curl-class": "^8.6",
+        "rct567/dom-query": "^0.8.0"
+    },
+    "authors": [
+        {
+            "name": "iman24",
+            "email": "anu@anu.com"
+        }
+    ]
+}
